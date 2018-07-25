@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "182701212453",
+    "firebase_url": "https://bleezy-7a68e.firebaseio.com",
+    "project_id": "bleezy-7a68e",
+    "storage_bucket": "bleezy-7a68e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182701212453:android:fcdefc206307f65a",
+        "android_client_info": {
+          "package_name": "com.bleezy.bleezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182701212453-3tkjs3gu8a9mvi2q1dlb7j5365kjpagb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bleezy.bleezy",
+            "certificate_hash": "45dd9c45beb261144b75b4ff57d43661d56194cb"
+          }
+        },
+        {
+          "client_id": "182701212453-kprevvm5b4rm6thrk0364ph31bual7nf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "182701212453-kprevvm5b4rm6thrk0364ph31bual7nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJ8TEuU06wXyP7Xff_uax6cZioi0HbjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182701212453-kprevvm5b4rm6thrk0364ph31bual7nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
